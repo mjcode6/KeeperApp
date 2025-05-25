@@ -1,0 +1,8 @@
+.header {
+  background-color: hsl(44, 92%, 52%);
+  padding: 10px;
+  text-align: left;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
