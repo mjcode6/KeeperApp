@@ -6,6 +6,7 @@ function Note(props){
         <div className="note">
             <h>{props.title} </h>
             <p>{props.content} </p>
+            <button>DELETE</button>
         </div>
     )
 }
